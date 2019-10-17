@@ -95,7 +95,6 @@ Map<GregorianCalen dar, Map<Food, Integer>> salesHistory; //Admin
 
 * [RowFilter Api](https://stackoverflow.com/questions/22066387/how-to-search-an-element-in-a-jtable-java)
 
-## 2. Food
 ---
 
 Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
