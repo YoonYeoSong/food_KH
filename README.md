@@ -94,3 +94,10 @@ Map<GregorianCalen dar, Map<Food, Integer>> salesHistory; //Admin
 ```
 
 * [RowFilter Api](https://stackoverflow.com/questions/22066387/how-to-search-an-element-in-a-jtable-java)
+
+## 2. Food
+---
+
+Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
+* [github 주소](https://github.com/YoonYeoSong/food_KH)
+<img src="https://github.com/YoonYeoSong/YoonYeoSong.github.io/blob/master/images/food.gif?raw=true" /><br>
